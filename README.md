@@ -3,10 +3,6 @@
 ## 📋 Proje Genel Bakış
 Tam kapsamlı bir otel yönetim sistemi geliştirilecek. Sistem resepsiyon işlemlerinden faturalama süreçlerine kadar tüm otel operasyonlarını kapsayacak.
 
-![image1](https://github.com/github-copilot/chat/attachments/1952580)
-![image2](https://github.com/github-copilot/chat/attachments/1952579)
-![image3](https://github.com/github-copilot/chat/attachments/1952581)
-![image4](https://github.com/github-copilot/chat/attachments/1952582)
 
 ## 🎯 Sistem Modülleri
 
